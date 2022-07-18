@@ -1,0 +1,13 @@
+.App {
+  max-width: 90%;
+  margin: auto;
+  position: relative;
+
+}
+
+@media only screen and (max-width: 800px) {
+
+  .movie {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,19 @@
+.movie {
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+    min-height: 250px;
+
+    #movie-image {
+        display: flex;
+
+        img {
+            margin-right: 10px;
+            max-width: 300px;
+            max-height: 245px;
+        }
+    }
+
+
+}
